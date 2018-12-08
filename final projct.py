@@ -2,7 +2,6 @@
 import statsmodels.api as sm
 import pandas as pd
 import numpy as np
-import 
 #%%
 '''
 Curveid 1Y	     2Y	  3Y	  4Y	  5Y  	10Y
